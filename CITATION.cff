@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying manuscript."
+title: "Graph Signal Processing of Connectome Harmonics: Reproducibility Repository"
+type: software
+authors:
+  - family-names: Bolton
+    given-names: Thomas A. W.
+    email: thomas.bolton@epfl.ch
+
+license: MIT
+
+abstract: >
+  MATLAB code accompanying the manuscript
+  "Spectral organization of individualized connectome harmonics
+  across brain structure, function and cognition".
+
+keywords:
+  - graph signal processing
+  - connectome harmonics
+  - structural connectivity
+  - functional MRI
+  - neuroscience
+  - MATLAB
+
+# Add the following after publication:
+#
+# repository-code: https://github.com/<user>/<repository>
+#
+# preferred-citation:
+#   type: article
+#   authors:
+#     - family-names: Bolton
+#       given-names: Thomas A. W.
+#   title: "Spectral organization of individualized connectome harmonics across brain structure, function and cognition"
+#   journal: "<Journal>"
+#   year: 2026
+#   doi: "<DOI>"
